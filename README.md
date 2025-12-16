@@ -20,13 +20,16 @@ A 15-year-old developer and builder from Iran.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Processing](https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 
 ```mermaid
 graph TD
     A[My Tech Stack] --> B[Programming]
     A --> C[Web Development]
-    A --> D[Hardware]
-    A --> E[Tools]
+    A --> D[Game Development]
+    A --> E[Hardware]
+    A --> F[Tools]
     
     B --> B1[Python]
     B --> B2[JavaScript]
@@ -38,8 +41,19 @@ graph TD
     C --> C3[Node.js]
     C --> C4[HTML/CSS]
     
-    D --> D1[Arduino]
-    D --> D2[Raspberry Pi]
+    D --> D1[Unreal Engine]
+    D --> D2[Unity]
     
-    E --> E1[Git]
-    E --> E2[Linux]
+    E --> E1[Arduino]
+    E --> E2[Raspberry Pi]
+    
+    F --> F1[Git]
+    F --> F2[Linux]
+
+📈 GitHub Stats
+
+https://github-readme-stats.vercel.app/api?username=amiraligrr&show_icons=true&theme=dark
+https://github-readme-stats.vercel.app/api/top-langs/?username=amiraligrr&layout=compact&theme=dark
+📫 Contact
+
+    GitHub: github.com/amiraligrr
