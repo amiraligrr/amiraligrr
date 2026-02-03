@@ -35,38 +35,3 @@ A 15-year-old developer and builder from Iran.
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amiraligrr&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&cache_seconds=1800&langs_count=8)
   
 </div>
-
-```mermaid
-graph TD
-    A[<b>My Tech Stack</b>] --> B[<b>Programming</b>]
-    A --> C[<b>Web Dev</b>]
-    A --> D[<b>Game Dev & 3D</b>]
-    A --> E[<b>Hardware</b>]
-    A --> F[<b>Tools</b>]
-    
-    B --> B1[Python]
-    B --> B2[JavaScript]
-    B --> B3[C++]
-    B --> B4[Processing]
-    
-    C --> C1[React]
-    C --> C2[Next.js]
-    C --> C3[HTML/CSS]
-    C --> C4[Tailwind CSS]
-    
-    D --> D1[Unreal Engine]
-    D --> D2[Unity]
-    D --> D3[Blender]
-    
-    E --> E1[Arduino]
-    E --> E2[Raspberry Pi]
-    
-    F --> F1[Git]
-    F --> F2[Linux]
-    
-    style A fill:#0d1117,stroke:#58a6ff,stroke-width:3px
-    style B fill:#0d1117,stroke:#238636
-    style C fill:#0d1117,stroke:#db6d28
-    style D fill:#0d1117,stroke:#8957e5
-    style E fill:#0d1117,stroke:#d29922
-    style F fill:#0d1117,stroke:#58a6ff
