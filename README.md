@@ -24,9 +24,17 @@ A 15-year-old developer and builder from Iran.
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-### 📈 GitHub Stats  
-![Amirali's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiraligrr&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amiraligrr&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10)
+### 📊 GitHub Stats & Analytics
+
+<div align="center">
+  
+  ![Amirali's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiraligrr&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&cache_seconds=1800&include_all_commits=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amiraligrr&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amiraligrr&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&cache_seconds=1800&langs_count=8)
+  
+</div>
 
 ```mermaid
 graph TD
