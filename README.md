@@ -53,7 +53,7 @@
 ## 🌐 Connect
 
 - **Website**: [amiraligrr.ir](https://amiraligrr.ir)
-- **Email**: `amiralig13899@gmail.com` | `admin@amiraligrr.ir`
+- **Email**: **`amiralig13899@gmail.com` | `admin@amiraligrr.ir`**
 
 ---
 
