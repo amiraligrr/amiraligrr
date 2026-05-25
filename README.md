@@ -40,7 +40,7 @@
 
 | ![GitHub Stats](https://github-readme-stats-pi-ten-61.vercel.app/api?username=amiraligrr&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10) | ![Top Languages](https://github-readme-stats-pi-ten-61.vercel.app/api/top-langs/?username=amiraligrr&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10) |
 |---|---|
-
+![GitHub Stats](https://github-readme-stats-omega-seven.vercel.app/api?username=amiraligrr&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10)
 </div>
 
 <p align="center">
