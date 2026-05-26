@@ -9,7 +9,7 @@
 ## 🏆 Achievements
 
 - **1st Place**, Iran Open RoboCup 2025  
-  *Junior Secondary League (مقطع راهنمایی) – National Robotics Competition*  
+  *Junior primery League 10-15 insitu ` – National Robotics Competition*  
   Designed, built, and programmed a fully autonomous robot to compete in complex, real‑time challenges. Demonstrated skills in embedded systems, sensor fusion, and strategic programming under tournament pressure.
 
 - **Super Team Champion**, Iran Open RoboCup 2025  
