@@ -74,4 +74,4 @@
 
 ---
 
-**From Scratch to supersonic. Still building.**
+
