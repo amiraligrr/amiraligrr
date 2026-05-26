@@ -1,13 +1,27 @@
 # 👋 Hi, I'm Amirali
- 
+
 **16-year-old builder from Iran. From Scratch to supersonic.**
- 
+
+*Born: January 24, 2011*
+
 ---
 
 ## 🏆 Achievements
 
-- **1st Place**, Iran Open RoboCup 2025 (National Robotics Competition)
-- **Super Team Champion**, Iran Open RoboCup 2025
+- **1st Place**, Iran Open RoboCup 2025  
+  *Junior Secondary League (مقطع راهنمایی) – National Robotics Competition*  
+  Designed, built, and programmed a fully autonomous robot to compete in complex, real‑time challenges. Demonstrated skills in embedded systems, sensor fusion, and strategic programming under tournament pressure.
+
+- **Super Team Champion**, Iran Open RoboCup 2025  
+  Collaborated with multiple teams to solve a shared robotics mission. Showed ability to work in a team, merge codebases, and coordinate hardware in a high‑stress environment.
+
+---
+
+## 🚀 Featured Projects
+
+- **Argus** – Central Intelligence Core. A local AI assistant and automation hub for my smart ecosystem.
+- **ZP-lang** – A framework to write programming languages in your native tongue.  
+  [GitHub](https://github.com/amiraligrr/ZP-lang-Framework) | [Website](http://zp.amiraligrr.ir)
 
 ---
 
