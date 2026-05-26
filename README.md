@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amirali
 
-**16-year-old builder from Iran. From Scratch to supersonic.**
+**16-year-old builder from Iran. In fight with IRAN internet**
 
 *Born: January 24, 2011*
 
