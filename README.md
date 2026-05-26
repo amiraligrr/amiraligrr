@@ -72,6 +72,4 @@
 - **Website**: [amiraligrr.ir](https://amiraligrr.ir)
 - **Email**: **`amiralig13899@gmail.com` | `admin@amiraligrr.ir`**
 
----
 
-**From Scratch to supersonic. Still building.**
