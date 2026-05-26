@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amirali
 
-**16-year-old builder from Iran. In fight with IRAN internet**
+**16-year-old builder from Iran. In a fight with Iran's internet.**
 
 *Born: January 24, 2011*
 
@@ -9,7 +9,7 @@
 ## 🏆 Achievements
 
 - **1st Place**, Iran Open RoboCup 2025  
-  *Junior primery League 10-15 insitu ` – National Robotics Competition*  
+  *Junior Primary League (ages 10‑15) – National Robotics Competition*  
   Designed, built, and programmed a fully autonomous robot to compete in complex, real‑time challenges. Demonstrated skills in embedded systems, sensor fusion, and strategic programming under tournament pressure.
 
 - **Super Team Champion**, Iran Open RoboCup 2025  
@@ -70,6 +70,8 @@
 ## 🌐 Connect
 
 - **Website**: [amiraligrr.ir](https://amiraligrr.ir)
-- **Email**: **`amiralig13899@gmail.com` | `admin@amiraligrr.ir`**
+- **Email**: `amiralig13899@gmail.com` | `admin@amiraligrr.ir`
 
+---
 
+**From Scratch to supersonic. Still building.**
