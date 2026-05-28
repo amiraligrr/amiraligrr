@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amirali
+# 👋 Hi, I'm Amiraligrr
 
 **16-year-old builder from Iran. In a fight with Iran's internet.**
 
@@ -73,5 +73,5 @@
 - **Email**: `amiralig13899@gmail.com` | `admin@amiraligrr.ir`
 
 ---
-
+Amirali Granmayeh (امیرعلی گرانمایه)
 
