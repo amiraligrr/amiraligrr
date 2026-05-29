@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Amiraligrr
+# 👋 Hi, I'm Amirali Granmayeh (امیرعلی گرانمایه)
 
-**16-year-old builder from Iran. In a fight with Iran's internet.**
+**City‑level swimmer | National robotics champion | Top student In school**
+
+*16-year-old builder from Iran. In a fight with Iran's internet.*
 
 *Born: January 24, 2011*
 
@@ -73,5 +75,4 @@
 - **Email**: `amiralig13899@gmail.com` | `admin@amiraligrr.ir`
 
 ---
-Amirali Granmayeh (امیرعلی گرانمایه)
-
+**My room, my code, my rules**
