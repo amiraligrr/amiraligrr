@@ -75,4 +75,4 @@
 - **Email**: `amiralig13899@gmail.com` | `admin@amiraligrr.ir`
 
 ---
-**My room, my code, my rules**
+**I code, I solder, I study, I swim. And I never stop building. **
