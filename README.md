@@ -4,7 +4,7 @@
 
 *16-year-old builder from Iran. In a fight with Iran's internet.*
 
-*Born: January 24, 2011*
+*Born: January 24, 2011 * 
 
 ---
 
