@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amirali Granmayeh (امیرعلی گرانمایه) 
+# 👋 Hi, I'm Amirali Granmayeh (امیرعلی گرانمایه)  
 
 **City‑level swimmer | National robotics champion | Top student In school**
 
