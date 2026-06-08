@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amirali Granmayeh (امیرعلی گرانمایه)   
 
-**City‑level swimmer | National robotics champion | Top student In school** 
+**City‑level swimmer | National robotics champion | Top student In school**  
 
 *16-year-old builder from Iran. In a fight with Iran's internet.*
 
