@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Amirali Granmayeh (امیرعلی گرانمایه)   
 
-**City‑level swimmer | National robotics champion | Top student In school**  
+** |
+ National robotics champion **  
  
 *16-year-old builder from Iran. In a fight with Iran's internet.*
 
@@ -75,4 +76,3 @@
 - **Email**: `amiralig13899@gmail.com` | `admin@amiraligrr.ir`
 
 ---
-**I code, I solder, I study, I swim. And I never stop building. **
