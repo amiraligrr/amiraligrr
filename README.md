@@ -1,28 +1,34 @@
-# 👋 Hi, I'm Amirali Granmayeh (امیرعلی گرانمایه)    
+# 👋 Hi, I'm Amirali Granmayeh (امیرعلی گرانمایه)
 
-** |
- National robotics champion **  
- 
-*16-year-old builder from Iran. In a fight with Iran's internet.*
+**🏆 National Robotics Champion – Iran**  
+**🧠 SAMPAD Student (National Organization for Development of Exceptional Talents) – Allameh Helli High School, Kerman**  
+*Born: January 24, 2011*  
+Based in Kerman, Iran
 
-*Born: January 24, 2011 * 
-
---- 
+---
 
 ## 🏆 Achievements
 
-- **1st Place**, Iran Open RoboCup 2025  
-  *In-situ Junior Primary League (ages 10‑15) – National Robotics Competition*  
-  Designed, built, and programmed a fully autonomous robot to compete in complex, real‑time challenges. Demonstrated skills in embedded systems, sensor fusion, and strategic programming under tournament pressure.
+### 🥇 Robotics Championships
+- **1st Place**, Iran Open RoboCup 2025 – In-situ Junior Primary League (ages 10–15)  
+  Designed, built, and programmed a fully autonomous robot for real‑time competition. Demonstrated skills in embedded systems, sensor fusion, and strategic programming under tournament pressure.
 
 - **Super Team Champion**, Iran Open RoboCup 2025  
-  Collaborated with multiple teams to solve a shared robotics mission. Showed ability to work in a team, merge codebases, and coordinate hardware in a high‑stress environment.
+  Collaborated with multiple teams on a shared robotics mission. Showed ability to work in a team, merge codebases, and coordinate hardware in a high‑stress environment.
+
+---
+
+### 🎓 SAMPAD (National Organization for Development of Exceptional Talents)
+- **Student at Allameh Helli High School (SAMPAD) – Kerman**  
+  Admitted to one of Iran's top gifted schools through a highly competitive national entrance exam, where tens of thousands of students compete each year.
+
+**SAMPAD** (سازمان ملی پرورش استعدادهای درخشان) is a nationwide organization under Iran's Ministry of Education. Its mission is to identify and nurture students with exceptional intelligence, creativity, and analytical thinking. SAMPAD schools (commonly known as "Tizhooshan" or gifted schools) offer advanced curricula, experienced teachers, and a project‑based, research‑oriented environment. Admission is based on a rigorous exam that focuses on problem‑solving and critical thinking, not just rote memorization. Being a SAMPAD student means being part of a community of top‑tier learners who push beyond standard academic boundaries and often participate in Olympiads and advanced research projects.
 
 ---
 
 ## 🚀 Featured Projects
 
-- **Argus** – Central Intelligence Core. A local AI assistant and automation hub for my smart ecosystem.
+- **Argus** – Local AI assistant and automation hub for my smart ecosystem.
 - **ZP-lang** – A framework to write programming languages in your native tongue.  
   [GitHub](https://github.com/amiraligrr/ZP-lang-Framework) | [Website](http://zp.amiraligrr.ir)
 
@@ -42,37 +48,28 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Processing](https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amiraligrr&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amiraligrr&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10) |
 |---|---|
 
-</div>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amiraligrr&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=amiraligrr&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 ---
 
-## 🍛 I'm also building [ZP-lang](https://github.com/amiraligrr/ZP-lang-Framework) – a framework to code in your native lang.
-
-**see http://zp.amiraligrr.ir**
-
----
-
-## 🌐 Connect
+## 🌐 Connect with Me
 
 - **Website**: [amiraligrr.ir](https://amiraligrr.ir)
 - **Email**: `amiralig13899@gmail.com` | `admin@amiraligrr.ir`
+- **GitHub**: [github.com/amiraligrr](https://github.com/amiraligrr)
 
 ---
+
+**🍛 Building ZP-lang – a framework to code in your native language**  
+[GitHub](https://github.com/amiraligrr/ZP-lang-Framework) | [zp.amiraligrr.ir](http://zp.amiraligrr.ir)
