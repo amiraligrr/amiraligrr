@@ -4,8 +4,6 @@
 **🧠 SAMPAD Student (National Organization for Development of Exceptional Talents) – Allameh Helli High School, Kerman**  
 *Born: January 24, 2011*  
 Based in Kerman, Iran  
-Linux user since age 14.
-
 ---
 
 ## 🏆 Achievements
