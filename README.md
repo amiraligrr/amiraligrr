@@ -1,67 +1,86 @@
-# 👋 Hi, I'm Amirali Granmayeh (امیرعلی گرانمایه)
+# 👋 Hi, I'm Amirali Granmayeh 
 
-**🏆 National Robotics Champion – Iran**  
-**🧠 SAMPAD Student (National Organization for Development of Exceptional Talents) – Allameh Helli High School, Kerman**  
+**Full-Stack Developer | AI & Robotics Enthusiast | Startup Founder**  
+**🧠 SAMPAD Student** | **🏆 National Robotics Champion**  
 *Born: January 24, 2011*  
-Based in Kerman, Iran  
+📍 Based in Kerman, Iran
+
+---
+
+## 🚀 About Me
+I am a 15-year-old full-stack developer and entrepreneur. I love building products that solve real-world problems, from complex SaaS platforms to autonomous robots. I am currently a student at Allameh Helli High School (SAMPAD), where I focus on advanced problem-solving and critical thinking. I believe in continuous learning and building things that matter.
+
 ---
 
 ## 🏆 Achievements
 
-### 🤖 Robotics Championships
-- **1st Place**, Iran Open RoboCup 2025 – In-situ Junior Primary League (ages 10–15)  
-  Designed, built, and programmed a fully autonomous robot for real‑time competition. Demonstrated skills in embedded systems, sensor fusion, and strategic programming under tournament pressure.
-
-- **Super Team Champion**, Iran Open RoboCup 2025  
-  Collaborated with multiple teams on a shared robotics mission. Showed ability to work in a team, merge codebases, and coordinate hardware in a high‑stress environment.
-
-- **Captain, Lead Programmer & Electronics Lead** of the team.  
-  Handled core programming, hardware architecture, and all wiring.
+### 🤖 Robotics Championships (Iran Open RoboCup 2025)
+- **1st Place** – In-situ Junior Primary League (ages 10–15)
+- **Super Team Champion** – Collaborated with multiple teams on a shared robotics mission.
+- **Captain & Lead Programmer** – Designed, built, and programmed a fully autonomous robot. Handled core programming, hardware architecture, and sensor fusion under high-pressure tournament conditions.
 
 ### 🎓 SAMPAD (National Organization for Development of Exceptional Talents)
-- **Student at Allameh Helli High School (SAMPAD) – Kerman**  
-  Admitted to one of Iran's top gifted schools through a highly competitive national entrance exam, where tens of thousands of students compete each year.
-
-**SAMPAD** (سازمان ملی پرورش استعدادهای درخشان) is a nationwide organization under Iran's Ministry of Education. Its mission is to identify and nurture students with exceptional intelligence, creativity, and analytical thinking. SAMPAD schools (commonly known as "Tizhooshan" or gifted schools) offer advanced curricula, experienced teachers, and a project‑based, research‑oriented environment. Admission is based on a rigorous exam that focuses on problem‑solving and critical thinking, not just rote memorization.
+- Admitted to one of Iran's top gifted schools through a highly competitive national entrance exam. SAMPAD focuses on a project-based, research-oriented curriculum for exceptional students.
 
 ---
 
-## 🚀 Featured Projects
+## 💻 Featured Projects
 
-- **TapCoin** – A Persian "tap-to-earn" mobile game with a full social and economic ecosystem.  
-  Players earn coins by tapping, invest in upgrades (Worker → Factory → Robot → Satellite → Planet → Creator of the Universe), and grow their passive profit (coins per second). The game features a dual-currency economy (Coins + Stars), a gift system with limited-edition collectibles, private and public chat rooms, follow/post/story features, a premium subscription, and a complete admin panel.  
-  *Status: Early Access – currently in testing.*  
-  [GitHub](https://github.com/amiraligrr/tapcoin) *(private during development)*
+### 🌟 LifeOS – The Personal Operating System
+A comprehensive SaaS platform designed to help users manage every aspect of their daily lives (fitness, sleep, study, habits, and AI-driven coaching). 
+- **Tech Stack:** Next.js 14 (App Router), TypeScript, Tailwind CSS, PHP 8, MySQL, AI Integration.
+- **Features:** Interactive workout timers, Focus Flight (study timer), intelligent AI coach, subscription payments (Myket IAP), and a dedicated counselor/coach dashboard.
 
-- **ZP-lang (Zereshk Polo Framework)** – A framework that lets anyone build a programming language using their own native language keywords. Code is translated to Python and runs. No English required. No compiler experience needed.  
-  [GitHub](https://github.com/amiraligrr/ZP-lang-Framework) | [Website](http://zp.amiraligrr.ir)
+### 🏫 B2B & School Management Platforms
+- **EduFlow:** A complete school management system (similar to "Modber") enabling teachers to log grades, assign homework, and generate report cards. Built with Next.js and PHP.
+- **B2B Wholesale Platform:** A platform connecting electronic manufacturers (suppliers) to retailers, featuring inventory management, wholesale pricing, and order tracking.
 
-- **Argus – Central Intelligence Core** – Local AI assistant and automation hub for my smart ecosystem. Listens, decides, speaks, and sends hardware commands. Built with Python and Flask.
+### 🧠 ZP-lang (Zereshk Polo Framework)
+A unique framework that lets anyone build a programming language using their own native language keywords. Code is seamlessly translated to Python. *No English required.*
+- **Tech Stack:** Python, Compiler Design.
 
-- **ASR – Smart Room System** – Arduino-based hardware execution layer that controls relays, lights, fan, smart trash can, and speaker via I2C communication.
+### 🕹️ TapCoin – Mobile Gaming Ecosystem
+A Persian "tap-to-earn" mobile game with a full social and economic ecosystem. Features a dual-currency economy, investment upgrades, social features (chat, stories, follow), and a premium subscription system.
+- **Tech Stack:** React Native, Node.js, MySQL.
 
-- **MatchUp – Mobile Gaming Platform** – A platform for online card games, chess, billiards, and more — with a leaderboard, chat system, and social features. Backend with PHP, MySQL, and real‑time WebSocket communication.  
-  *Status: Under active development — not yet fully implemented.*
+### 🏠 Argus & ASR – Smart Room Ecosystem
+- **Argus:** A local AI assistant and automation hub built with Python and Flask that listens, decides, and sends hardware commands.
+- **ASR:** An Arduino-based hardware execution layer controlling relays, lights, fans, and smart devices via I2C.
 
-*...and many more projects that aren't listed here — I'm always building something new.*
+### 🎮 MatchUp – Mobile Gaming Platform
+A platform for online card games, chess, and billiards featuring a leaderboard, chat system, and real-time WebSocket communication.
+- **Tech Stack:** PHP, MySQL, WebSockets.
+
+*...and many more projects in the lab. I'm always building.*
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Frontend & Mobile:**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Databases:**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Hardware, IoT & Game Dev:**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+**Tools:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
@@ -84,4 +103,4 @@ Based in Kerman, Iran
 
 ---
 
-*Still building. One step at a time.*
+*Still building. One line of code at a time. 🚀*
