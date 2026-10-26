@@ -1,122 +1,83 @@
-# 👋 Hi, I'm Amirali Granmayeh 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Hi%2C+I'm+Amirali+Granmayeh;Full-Stack+Developer;Startup+Founder;National+Robotics+Champion" alt="Typing SVG" />
+</div>
 
-**Full-Stack Developer | AI & Robotics Enthusiast | Startup Founder**  
-**🧠 SAMPAD Student** | **🏆 National Robotics Champion**  
-*Born: January 24, 2011*  
-📍 Based in Kerman, Iran
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Building%20LifeOS-58A6FF?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Building-58A6FF?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Exploring-Cybersecurity-58A6FF?style=flat-square" alt="Exploring Cybersecurity" />
+  <img src="https://img.shields.io/badge/Mood-Curious%20and%20always%20learning-58A6FF?style=flat-square" alt="Curious and always learning" />
+</div>
 
----
+## About me
+I am a 15-year-old full-stack developer and entrepreneur based in Kerman, Iran. I love building products that solve real-world problems, from complex SaaS platforms to autonomous robots. I am currently a student at Allameh Helli High School (SAMPAD), where I focus on advanced problem-solving and critical thinking. I believe in continuous learning and building things that matter. My approach is simple, robust, and maintainable. Curious + Coffee-fueled ☕.
 
-## 🚀 About Me
-I am a 15-year-old full-stack developer and entrepreneur. I love building products that solve real-world problems, from complex SaaS platforms to autonomous robots. I am currently a student at Allameh Helli High School (SAMPAD), where I focus on advanced problem-solving and critical thinking. I believe in continuous learning and building things that matter.
+## Featured Projects
 
----
+- **LifeOS – The Personal Operating System:** A comprehensive SaaS platform designed to help users manage every aspect of their daily lives (fitness, sleep, study, habits, and AI-driven coaching). Tech: Next.js, TypeScript, PHP, MySQL.
+- **EduFlow & B2B Platforms:** Complete school management system (grade logging, homework, report cards) and a wholesale B2B platform connecting manufacturers to retailers.
+- **ZP-lang (Zereshk Polo Framework):** A unique framework that lets anyone build a programming language using their own native language keywords (translated to Python).
+- **TapCoin:** A Persian "tap-to-earn" mobile gaming ecosystem with a dual-currency economy and social features. Tech: React Native, Node.js.
+- **Argus & ASR:** A smart room ecosystem featuring an AI assistant (Python/Flask) and an Arduino-based hardware execution layer.
+- **MatchUp:** A real-time mobile gaming platform for online card games and chess.
 
-## 🏆 Achievements
+## What I work with
 
-### 🤖 Robotics Championships (Iran Open RoboCup 2025)
-- **1st Place** – In-situ Junior Primary League (ages 10–15)
-- **Super Team Champion** – Collaborated with multiple teams on a shared robotics mission.
-- **Captain & Lead Programmer** – Designed, built, and programmed a fully autonomous robot. Handled core programming, hardware architecture, and sensor fusion under high-pressure tournament conditions.
+### Frontend & Mobile
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-### 🎓 SAMPAD (National Organization for Development of Exceptional Talents)
-- Admitted to one of Iran's top gifted schools through a highly competitive national entrance exam. SAMPAD focuses on a project-based, research-oriented curriculum for exceptional students.
+### Backend
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processing&logoColor=white" />
 
----
+### Cybersecurity
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-4A90E2?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
 
-## 💻 Featured Projects
+Interested in network and web application security, traffic analysis, and authorized security testing with tools such as Nmap.
 
-### 🌟 LifeOS – The Personal Operating System
-A comprehensive SaaS platform designed to help users manage every aspect of their daily lives (fitness, sleep, study, habits, and AI-driven coaching). 
-- **Tech Stack:** Next.js 14 (App Router), TypeScript, Tailwind CSS, PHP 8, MySQL, AI Integration.
-- **Features:** Interactive workout timers, Focus Flight (study timer), intelligent AI coach, subscription payments (Myket IAP), and a dedicated counselor/coach dashboard.
+### Data & Tools
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
-### 🏫 B2B & School Management Platforms
-- **EduFlow:** A complete school management system (similar to "Modber") enabling teachers to log grades, assign homework, and generate report cards. Built with Next.js and PHP.
-- **B2B Wholesale Platform:** A platform connecting electronic manufacturers (suppliers) to retailers, featuring inventory management, wholesale pricing, and order tracking.
+## Current focus
+- Building reliable web applications (LifeOS, B2B platforms)
+- Designing clean APIs and scalable systems
+- Improving developer experience and automation
+- Learning new patterns, tools, and architecture ideas
 
-### 🧠 ZP-lang (Zereshk Polo Framework)
-A unique framework that lets anyone build a programming language using their own native language keywords. Code is seamlessly translated to Python. *No English required.*
-- **Tech Stack:** Python, Compiler Design.
+## GitHub stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amiraligrr&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraligrr&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10" alt="Top languages" />
+</div>
 
-### 🕹️ TapCoin – Mobile Gaming Ecosystem
-A Persian "tap-to-earn" mobile game with a full social and economic ecosystem. Features a dual-currency economy, investment upgrades, social features (chat, stories, follow), and a premium subscription system.
-- **Tech Stack:** React Native, Node.js, MySQL.
+## Let's connect
+- GitHub: [https://github.com/amiraligrr](https://github.com/amiraligrr)
+- Email: [amiralig13899@gmail.com](mailto:amiralig13899@gmail.com)
+- Always open to interesting projects, collaborations, and smart conversations.
 
-### 🏠 Argus & ASR – Smart Room Ecosystem
-- **Argus:** A local AI assistant and automation hub built with Python and Flask that listens, decides, and sends hardware commands.
-- **ASR:** An Arduino-based hardware execution layer controlling relays, lights, fans, and smart devices via I2C.
-
-### 🎮 MatchUp – Mobile Gaming Platform
-A platform for online card games, chess, and billiards featuring a leaderboard, chat system, and real-time WebSocket communication.
-- **Tech Stack:** PHP, MySQL, WebSockets.
-
-*...and many more projects in the lab. I'm always building.*
-
----
-
-## 🛠️ Tech Stack
-
-**🌐 Frontend & Mobile:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**⚙️ Backend:**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Processing](https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processing&logoColor=white)
-
-**🗄️ Databases:**
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**🛠️ DevOps & Tools:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-
-**🤖 Hardware, IoT & Game Dev:**
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
-**🔐 Other Interests:**
-![Cyber Security](https://img.shields.io/badge/Cyber_Security-FF0000?style=for-the-badge&logo=hackaday&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amiraligrr&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amiraligrr&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10) |
-|---|---|
-
-![GitHub Streak](https://streak-stats.demolab.com?user=amiraligrr&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
----
-
-## 🌐 Connect with Me
-
-- **Personal Website:** [amiraligrr.ir](https://amiraligrr.ir)  
-- **ZP-lang Website:** [zp.amiraligrr.ir](http://zp.amiraligrr.ir)  
-- **GitHub:** [github.com/amiraligrr](https://github.com/amiraligrr)  
-- **Email:** `amiralig13899@gmail.com` | `admin@amiraligrr.ir`
-
----
-
-*Still building. One line of code at a time. 🚀*
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Thanks+for+visiting!;Let's+build+something+amazing!" alt="Thanks" />
+</div>
