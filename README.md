@@ -17,9 +17,13 @@ Currently a student at **SAMPAD** (National Organization for Development of Exce
 ## 🚀 Core Projects
 
 - **LifeOS (SaaS Platform):** A comprehensive personal operating system designed for daily optimization. Features an interactive AI coach, fitness tracking, study timers, and subscription management. Built with Next.js, TypeScript, PHP, and MySQL.
+https://lifeos2.amiraligrr.ir
 - **EduFlow & B2B Platforms:** Production-grade enterprise systems including a full school management platform (grades, homework, reporting) and a wholesale B2B platform connecting suppliers to retailers.
+- https://heli.amiraligrr.ir
 - **ZP-lang (Compiler Framework):** A custom framework allowing developers to build programming languages using native language keywords, seamlessly transpiling to Python.
+- https://zp.amiraligrr.ir
 - **TapCoin (Mobile Ecosystem):** A highly scalable "tap-to-earn" gaming app featuring a dual-currency economy, social networking, and in-app purchases. Built with React Native and Node.js.
+- https://tapcoinapi.amiraligrr.ir/frontend
 - **Argus & ASR (IoT Ecosystem):** A local AI voice assistant (Python/Flask) communicating directly with a custom Arduino hardware execution layer for smart room automation.
 - **MatchUp:** A real-time multiplayer gaming platform featuring WebSocket communication, leaderboards, and secure chat systems.
 
