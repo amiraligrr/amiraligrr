@@ -10,7 +10,7 @@
 </div>
 
 ## 👨‍💻 About Me
-I am a 15-year-old Full-Stack Developer and Tech Founder based in Iran. I specialize in building scalable SaaS platforms, designing robust backends, and integrating AI into real-world applications. 
+I am a 16-year-old Full-Stack Developer and Tech Founder based in Iran. I specialize in building scalable SaaS platforms, designing robust backends, and integrating AI into real-world applications. 
 
 Currently a student at **SAMPAD** (National Organization for Development of Exceptional Talents), I balance advanced academics with shipping production-ready software. I have already published **2 mobile applications** on Iranian app stores (Myket & Bazaar), with more in the pipeline.
 
