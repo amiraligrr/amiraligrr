@@ -17,7 +17,7 @@ Currently a student at **SAMPAD** (National Organization for Development of Exce
 ## 🚀 Core Projects
 
 - **LifeOS (SaaS Platform):** A comprehensive personal operating system designed for daily optimization. Features an interactive AI coach, fitness tracking, study timers, and subscription management. Built with Next.js, TypeScript, PHP, and MySQL.
-https://lifeos2.amiraligrr.ir
+https://yourlifeos.ir
 - **EduFlow & B2B Platforms:** Production-grade enterprise systems including a full school management platform (grades, homework, reporting) and a wholesale B2B platform connecting suppliers to retailers.
 - https://heli.amiraligrr.ir
 - **ZP-lang (Compiler Framework):** A custom framework allowing developers to build programming languages using native language keywords, seamlessly transpiling to Python.
