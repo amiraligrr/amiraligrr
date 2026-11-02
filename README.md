@@ -52,6 +52,6 @@ https://yourlifeos.ir
 ## 🌐 Contact
 - **Website:** [amiraligrr.ir](https://amiraligrr.ir)
 - **GitHub:** [github.com/amiraligrr](https://github.com/amiraligrr)
-- **Email:** [amiralig13899@gmail.com](mailto:amiralig13899@gmail.com)
+- **Email:** [amiralig13899@gmail.com](mailto:amiralig13899@gmail.com) | founder@yourlifeos.ir
 
 *Building products that matter. One line of code at a time.*
