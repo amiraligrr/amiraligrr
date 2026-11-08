@@ -3,29 +3,41 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Apps_on_Myket_%26_Bazaar-3%2B-58A6FF?style=flat-square" alt="Published Apps" />
+  <img src="https://img.shields.io/badge/Apps_on_Myket_%26_Bazaar-4%2B-58A6FF?style=flat-square" alt="Published Apps" />
   <img src="https://img.shields.io/badge/Focus-Scalable_SaaS_Platforms-58A6FF?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Status-Actively_Building-58A6FF?style=flat-square" alt="Status" />
   <img src="https://img.shields.io/badge/Exploring-Cybersecurity-58A6FF?style=flat-square" alt="Exploring Cybersecurity" />
+  <img src="https://img.shields.io/badge/National_Award-Alborz_Prize_2026-58A6FF?style=flat-square" alt="Alborz Prize" />
 </div>
 
 ## 👨‍💻 About Me
 I am a 16-year-old Full-Stack Developer and Tech Founder based in Iran. I specialize in building scalable SaaS platforms, designing robust backends, and integrating AI into real-world applications. 
 
-Currently a student at **SAMPAD** (National Organization for Development of Exceptional Talents), I balance advanced academics with shipping production-ready software. I have already published **3 mobile applications** on Iranian app stores (Myket & Bazaar), with more in the pipeline.
+Currently a student at **SAMPAD** (National Organization for Development of Exceptional Talents), I balance advanced academics with shipping production-ready software. I have already published **4 mobile applications** on Iranian app stores (Myket & Bazaar), with more in the pipeline. I am also a **National Alborz Prize Laureate (2026)**.
 
 ## 🚀 Core Projects
 
 - **LifeOS (SaaS Platform):** A comprehensive personal operating system designed for daily optimization. Features an interactive AI coach, fitness tracking, study timers, and subscription management. Built with Next.js, TypeScript, PHP, and MySQL.
-https://yourlifeos.ir
+  - [https://yourlifeos.ir](https://yourlifeos.ir)
+- **Block Boom (Mobile Game):** A fast-paced, arcade-style block-breaking game featuring combo systems, boss fights, leaderboards, and PWA support. Published on Myket with over 100 downloads.
+  - [Landing Page](https://blockboomapi.amiraligrr.ir/)
+  - [Myket Store](https://myket.ir/app/ir.amiraligrr.blockboom)
 - **EduFlow & B2B Platforms:** Production-grade enterprise systems including a full school management platform (grades, homework, reporting) and a wholesale B2B platform connecting suppliers to retailers.
-- https://heli.amiraligrr.ir
+  - [https://heli.amiraligrr.ir](https://heli.amiraligrr.ir)
 - **ZP-lang (Compiler Framework):** A custom framework allowing developers to build programming languages using native language keywords, seamlessly transpiling to Python.
-- https://zp.amiraligrr.ir
+  - [https://zp.amiraligrr.ir](https://zp.amiraligrr.ir)
 - **TapCoin (Mobile Ecosystem):** A highly scalable "tap-to-earn" gaming app featuring a dual-currency economy, social networking, and in-app purchases. Built with React Native and Node.js.
-- https://tapcoinapi.amiraligrr.ir/frontend
+  - [https://tapcoinapi.amiraligrr.ir/frontend](https://tapcoinapi.amiraligrr.ir/frontend)
 - **Argus & ASR (IoT Ecosystem):** A local AI voice assistant (Python/Flask) communicating directly with a custom Arduino hardware execution layer for smart room automation.
 - **MatchUp:** A real-time multiplayer gaming platform featuring WebSocket communication, leaderboards, and secure chat systems.
+
+## 🏆 Achievements & Honors
+
+- **National Alborz Prize Laureate (2026):** Recognized as one of the 55 top students across Iran in the 64th National Alborz Prize (the "Iranian Nobel"). 
+  - [Official Alborz Prize Announcement](https://blog.alborzprize.ir/article/asamy-brgzydgan-gayzh-albrz-dansh-amozy-%DB%B1%DB%B4%DB%B0%DB%B5)
+- **1st Place & Super Team Champion** – Iran Open RoboCup 2025 (Junior Primary League). Served as Captain & Lead Engineer, architecting hardware and programming a fully autonomous robot under tournament conditions.
+  - [ISNA News Coverage](https://www.isna.ir/news/1404020603688/%D8%AF%D8%B1%D8%AE%D8%B4%D8%B4-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A2%D9%85%D9%88%D8%B2%D8%A7%D9%86-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%D8%B1%D8%A8%D9%88%DA%A9%D8%A7%D9%BE-%DB%B2%DB%B0%DB%B2%DB%B5-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)
+- **SAMPAD Student** – Admitted via highly competitive national entrance exam.
 
 ## 🛠️ Technical Stack
 
@@ -37,11 +49,6 @@ https://yourlifeos.ir
 
 ### Database, DevOps & Security
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-
-## 🏆 Achievements
-- **1st Place & Super Team Champion** – Iran Open RoboCup 2025 (Junior Primary League)
-- **Captain & Lead Engineer** – Architected hardware and programmed a fully autonomous robot under tournament conditions.
-- **SAMPAD Student** – Admitted via highly competitive national entrance exam.
 
 ## 📊 GitHub Analytics
 <div align="center">
