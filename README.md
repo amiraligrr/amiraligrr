@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Apps_on_Myket_%26_Bazaar-2%2B-58A6FF?style=flat-square" alt="Published Apps" />
+  <img src="https://img.shields.io/badge/Apps_on_Myket_%26_Bazaar-3%2B-58A6FF?style=flat-square" alt="Published Apps" />
   <img src="https://img.shields.io/badge/Focus-Scalable_SaaS_Platforms-58A6FF?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Status-Actively_Building-58A6FF?style=flat-square" alt="Status" />
   <img src="https://img.shields.io/badge/Exploring-Cybersecurity-58A6FF?style=flat-square" alt="Exploring Cybersecurity" />
@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 I am a 16-year-old Full-Stack Developer and Tech Founder based in Iran. I specialize in building scalable SaaS platforms, designing robust backends, and integrating AI into real-world applications. 
 
-Currently a student at **SAMPAD** (National Organization for Development of Exceptional Talents), I balance advanced academics with shipping production-ready software. I have already published **2 mobile applications** on Iranian app stores (Myket & Bazaar), with more in the pipeline.
+Currently a student at **SAMPAD** (National Organization for Development of Exceptional Talents), I balance advanced academics with shipping production-ready software. I have already published **3 mobile applications** on Iranian app stores (Myket & Bazaar), with more in the pipeline.
 
 ## 🚀 Core Projects
 
