@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Apps_on_Myket_%26_Bazaar-4%2B-58A6FF?style=flat-square" alt="Published Apps" />
+  <img src="https://img.shields.io/badge/Apps_on_Myket_%26_Bazaar-3%2B-58A6FF?style=flat-square" alt="Published Apps" />
   <img src="https://img.shields.io/badge/Focus-Scalable_SaaS_Platforms-58A6FF?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Status-Actively_Building-58A6FF?style=flat-square" alt="Status" />
   <img src="https://img.shields.io/badge/Exploring-Cybersecurity-58A6FF?style=flat-square" alt="Exploring Cybersecurity" />
