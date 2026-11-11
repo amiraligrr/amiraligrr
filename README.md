@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 I am a 16-year-old Full-Stack Developer and Tech Founder based in Iran. I specialize in building scalable SaaS platforms, designing robust backends, and integrating AI into real-world applications. 
 
-Currently a student at **SAMPAD** (National Organization for Development of Exceptional Talents), I balance advanced academics with shipping production-ready software. I have already published **4 mobile applications** on Iranian app stores (Myket & Bazaar), with more in the pipeline. I am also a **National Alborz Prize Laureate (2026)**.
+Currently a student at **SAMPAD** (National Organization for Development of Exceptional Talents), I balance advanced academics with shipping production-ready software. I have already published **3 mobile applications** on Iranian app stores (Myket & Bazaar), with more in the pipeline. I am also a **National Alborz Prize Laureate (2026)**.
 
 ## 🚀 Core Projects
 
