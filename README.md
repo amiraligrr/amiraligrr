@@ -35,6 +35,7 @@ Currently a student at **SAMPAD** (National Organization for Development of Exce
 
 - **National Alborz Prize(جایزه البرز) Laureate (2026):** Recognized as one of the 55 top students across Iran in the 64th National Alborz Prize (the "Iranian Nobel"). 
   - [Official Alborz Prize Announcement](https://blog.alborzprize.ir/article/asamy-brgzydgan-gayzh-albrz-dansh-amozy-%DB%B1%DB%B4%DB%B0%DB%B5)
+  -  - [ّISNA](https://www.isna.ir/news/1405082014022/%D8%AF%D8%B1%D8%AE%D8%B4%D8%B4-%D9%A2-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A2%D9%85%D9%88%D8%B2-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%DA%A9%D8%B3%D8%A8-%D8%AC%D8%A7%DB%8C%D8%B2%D9%87-%D9%85%D9%84%DB%8C-%D8%A7%D9%84%D8%A8%D8%B1%D8%B2)
 - **1st Place & Super Team Champion** – Iran Open RoboCup 2025 (Junior Primary League). Served as Captain & Lead Engineer, architecting hardware and programming a fully autonomous robot under tournament conditions.
   - [ISNA News Coverage](https://www.isna.ir/news/1404020603688/%D8%AF%D8%B1%D8%AE%D8%B4%D8%B4-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A2%D9%85%D9%88%D8%B2%D8%A7%D9%86-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%D8%B1%D8%A8%D9%88%DA%A9%D8%A7%D9%BE-%DB%B2%DB%B0%DB%B2%DB%B5-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)
 - **SAMPAD Student** – Admitted via highly competitive national entrance exam.
